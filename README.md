@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jmmadson
 - 👀 I’m interested in data science and analytics
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Python & R
 - 📫 How to reach me jmmadson@gmail.com
 
 <!---
